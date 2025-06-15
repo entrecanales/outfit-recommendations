@@ -1,0 +1,33 @@
+package com.entrecanales.outfit_recommendations.entities.enums;
+
+public enum ColorsEnum {
+    BLACK,
+    WHITE,
+    GRAY,
+    NAVY,
+    BLUE,
+    SKY_BLUE,
+    RED,
+    MAROON,
+    PINK,
+    PURPLE,
+    LAVENDER,
+    BROWN,
+    BEIGE,
+    TAN,
+    KHAKI,
+    GREEN,
+    OLIVE,
+    FOREST_GREEN,
+    YELLOW,
+    GOLD,
+    ORANGE,
+    CORAL,
+    TEAL,
+    TURQUOISE,
+    CREAM,
+    CHARCOAL,
+    BURGUNDY,
+    MINT,
+    MUSTARD
+}
